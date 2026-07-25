@@ -7,3 +7,5 @@ Clone this repository and run the script:
 ```bash
 git clone https://github.com/41felix-au/go-web-stub.git
 ```
+
+*Initialized by cyber-lead-22 workspace automation.*
